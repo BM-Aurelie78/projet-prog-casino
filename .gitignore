@@ -1,0 +1,13 @@
+# environnement virtuel
+casino_env/
+.casino_env/
+
+# cache python
+__pycache__/
+*.pyc
+
+# fichiers système
+.DS_Store
+
+# configuration éditeur
+.vscode/s
